@@ -37,6 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 One cool code project:
-[Link](https://github.com/ryanscox/ryanscox.github.io/blob/master/TrafficAnimation.java)
+[Traffic Animation](https://github.com/ryanscox/ryanscox.github.io/blob/master/TrafficAnimation.java)
 Depends on:
-[Link](https://github.com/ryanscox/ryanscox.github.io/blob/master/myAvatar.png)
+[Image](https://github.com/ryanscox/ryanscox.github.io/blob/master/myAvatar.png)
